@@ -25,7 +25,7 @@ const Navbar = () => {
         justify-between z-50'>
             {/* adding the logo for my portfolio */}
             <a href="#top">
-                <Image src={assets.logo} alt ='logo of my website' className='w-28 
+                <Image src={assets.logo} alt ='logo of my website' className='w-40 
                 cursor pointer mr-14'/>
             </a>
 
